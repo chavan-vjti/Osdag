@@ -33,7 +33,7 @@ from reportGenerator import *
 from ui_design_preferences import Ui_ShearDesignPreferences
 from endPlateCalc import end_connection
 from model import *
-from ui_endPlate import Ui_MainWindow
+from ui_endplate import Ui_MainWindow
 from drawing_2D import EndCommonData
 from Connections.Shear.common_logic import CommonDesignLogic
 from Svg_Window import SvgWindow
@@ -430,7 +430,7 @@ class MainController(QMainWindow):
         # ************************************ Help button *******************************************************************************
         self.ui.actionAbout_Osdag_2.triggered.connect(self.open_osdag)
         self.ui.actionVideo_Tutorials.triggered.connect(self.tutorials)
-        self.ui.actionDesign_examples.triggered.connect(self.design_examples)
+        # self.ui.actionDesign_examples.triggered.connect(self.design_examples)
         self.ui.actionAsk_Us_a_Question.triggered.connect(self.open_question)
 
         self.ui.actionDesign_Preferences.triggered.connect(self.design_preferences)
