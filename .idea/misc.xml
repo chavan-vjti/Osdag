@@ -1,4 +1,8 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
+<<<<<<< HEAD
   <component name="ProjectRootManager" version="2" project-jdk-name="Python 2.7.14 (C:\Program Files\Miniconda2\pythonw.exe)" project-jdk-type="Python SDK" />
+=======
+  <component name="ProjectRootManager" version="2" project-jdk-name="Python 2.7.13 (C:\Program Files (x86)\Miniconda2\python.exe)" project-jdk-type="Python SDK" />
+>>>>>>> d7e852781c0b398c37e87b77b89a29e0e09e7e41
 </project>

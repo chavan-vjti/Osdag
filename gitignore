@@ -2,10 +2,15 @@
 *.pyo
 *.xml
 **/*.txt
-*.pyc
+**/*.pyc
+**/**/*.pyc
+**/**/**/*.pyc
+**/**/**/**/*.pyc
 .idea/*
+.idea/workspace.xml
 *~
 *.html
 *.log
 output/*
 Osdag_Workspace/*
+*.txt
