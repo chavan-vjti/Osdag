@@ -4,12 +4,8 @@
 **/*.txt
 *.pyc
 .idea/*
-.idea/workspace.xml
 *~
 *.html
-*.xml
 *.log
 output/*
 Osdag_Workspace/*
-.idea/*
-*.xml
